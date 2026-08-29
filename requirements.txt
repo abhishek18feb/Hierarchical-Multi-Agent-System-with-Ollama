@@ -1,0 +1,18 @@
+langchain
+langchain_community
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+langchain-openrouter
+ipykernel
+langchain-ollama
+litellm
+langchain-litellm
+
+# For langgraph course
+langgraph
+langsmith
+langchain_tavily
+
+langgraph-cli[inmem]
